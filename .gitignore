@@ -1,0 +1,6 @@
+user.cfg
+__pycache__
+*.log
+anon.*
+session.*
+test/*
